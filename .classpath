@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.1/bin/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.1/bin/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.1/bin/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.1/bin/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.1/bin/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-12.0.1/bin/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
